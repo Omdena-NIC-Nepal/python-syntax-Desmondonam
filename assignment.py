@@ -7,7 +7,7 @@ def format_string(name, age):
     Returns:
         str: Formatted string
     """
-    pass
+    return(f"my name is {name} and I am {age} year old!")
 
 def conditional_check(number):
     """
